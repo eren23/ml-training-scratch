@@ -1,0 +1,1 @@
+Basic examples of ML concepts from the internet I practiced on. Mostly from scratch.
